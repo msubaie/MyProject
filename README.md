@@ -1,3 +1,3 @@
 # MyProject
 
-It's just a test
+Applied Data Science Capstone
